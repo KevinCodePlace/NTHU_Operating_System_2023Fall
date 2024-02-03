@@ -38,10 +38,6 @@
 Provide debugging and verification scripts to test and validate the implementation.
 
 
-| Item | Grade | 
-| ---- | ----- | 
-| MP1 | 92  | 
-| MP2 | 88  |
-| MP3 | 93.25  | 
-| MP4 | 90  | 
-| Pthreads | 100  |
+| Item | Grade | Item | Grade | Item | Grade |  Item | Grade |  Item | Grade | 
+| ---- | ----- | ---- | ----- | ---- | ----- | ---- | ----- | ---- | ----- | 
+| MP1 | 92  |  MP2 | 88  | MP3 | 93.25  | MP4 | 90  | Pthreads | 100  |
