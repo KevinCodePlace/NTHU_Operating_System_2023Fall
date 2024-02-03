@@ -36,3 +36,12 @@
   - Create and manage multiple threads (Reader, Producer, Consumer, ConsumerController, Writer) to handle the processing of items, with dynamic scaling of consumer threads based on the workload.
   - Document the code structure, implementation details, and compile, run, and test instructions.
 Provide debugging and verification scripts to test and validate the implementation.
+
+
+| Item | Grade | 
+| ---- | ----- | 
+| MP1 | 92  | 
+| MP2 | 88  |
+| MP3 | 93.25  | 
+| MP4 | 90  | 
+| Pthreads | 100  |
